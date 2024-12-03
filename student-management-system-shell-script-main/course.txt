@@ -1,8 +1,0 @@
-1|mats|hajra|3|4
-2|english|ali|3|5
-4|physics|ahmed|4|4
-computer|101
-|
-pyscics|104
-maths|34
-maths|178
