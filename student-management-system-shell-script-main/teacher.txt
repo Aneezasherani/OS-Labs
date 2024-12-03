@@ -1,0 +1,10 @@
+saira|khan|cs|5|computer|4|50000|9086544|O-
+salwa|10|hod
+munaza|3|hod of computing
+||
+maheen|18|bscs
+Maha|78|Cs
+amin|14|BIO
+aminakhan|1|bscs
+khanq|2|ict
+amin|12|ca
